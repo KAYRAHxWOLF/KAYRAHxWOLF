@@ -2,4 +2,4 @@
 - 👀 I’m interested in gamedesigning and art 
 - 🌱 I’m currently learning IT stuff
 - 💞️ I’m looking to collaborate Geometry Das| Minecraft | blender and unity | YT
-- 📫 How to reach me ... DISCORD (but i dont give mine. find it urself :>)
+- 📫 How to reach me ... DISCORD (but i dont give mine. find it urself :>), Telegromm too
