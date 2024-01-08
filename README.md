@@ -1,5 +1,5 @@
-- 👋 Hi, I’m YO MOM .. no jk i´m @MOOKhay
+- 👋 Hi, I’m Kayrah
 - 👀 I’m interested in gamedesigning and art 
-- 🌱 I’m currently learning IT stuff
-- 💞️ I’m looking to collaborate Geometry Das| Minecraft | blender and unity | YT
-- 📫 How to reach me ... DISCORD (but i dont give mine. find it urself :>), Telegromm too
+- 🌱 I’m currently learning IT stuff yunno?
+- 💞️ I’m looking to collaborate Geometry Dash mods | Minecraft mods | blender and unity projects
+- 📫 How to reach me ... dunno.
