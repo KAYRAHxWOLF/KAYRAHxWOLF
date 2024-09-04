@@ -1,3 +1,4 @@
+# 🏆 About me: 
 - 👋 Hi, I’m Kayrah
 - 👀 I’m interested in gamedesigning and art 
 - 🌱 I’m currently learning IT stuff yunno?
