@@ -12,6 +12,8 @@
 - 5/10 Python 
 - 4/10 C# 
 - 4/10 SQL 
+- 3/10 Vue JS 3
+
 
 # ⚙️ What Studios i am familliar with:
 - 9/10 Clip Studio Paint⭐
@@ -20,4 +22,4 @@
 - 3/10 Azure Data Studio
 - 4/10 FL Studio⭐
 - 8/10 Obsidian.md⭐
-- 3/10 Vue JS 3
+
