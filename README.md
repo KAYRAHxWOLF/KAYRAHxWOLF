@@ -20,3 +20,4 @@
 - 3/10 Azure Data Studio
 - 4/10 FL Studio⭐
 - 8/10 Obsidian.md⭐
+- 3/10 Vue JS 3
