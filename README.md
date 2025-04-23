@@ -6,20 +6,18 @@
 - 📫 How to reach me ... find me :)
 
 # ⌨️ My Programming skills:
-- 8/10 HTML ⭐
-- 6/10 CSS ⭐
+- 9/10 HTML ⭐
+- 8/10 CSS ⭐
 - 6/10 JavaScript ⭐
 - 5/10 Python 
-- 4/10 C# 
-- 4/10 SQL 
-- 3/10 Vue JS 3
-
+- 3/10 C# 
+- 3/10 SQL 
+- 6/10 Vue3 JS ⭐
 
 # ⚙️ What Studios i am familliar with:
-- 9/10 Clip Studio Paint⭐
-- 6/10 Visual Studio Code
-- 7/10 Visual Studio⭐
+- 9/10 Clip Studio Paint ⭐
+- 7/10 Visual Studio Code ⭐
+- 4/10 Visual Studio
 - 3/10 Azure Data Studio
-- 4/10 FL Studio⭐
-- 8/10 Obsidian.md⭐
-
+- 3/10 FL Studio
+- 9/10 Obsidian.md ⭐
